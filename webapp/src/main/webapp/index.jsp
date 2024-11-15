@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name khaiser with poll SCM and docker container with delete images</b></label>
+    <label for="Name"><b>Enter Name khaiser with poll SCM and docker container with delete images vv3</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
